@@ -1,31 +1,31 @@
 {
-  "name": "gitbook-plugin-collapsible-menu",
+  "name": "gitbook-plugin-collapsible-menu-ex",
   "description": "GitBook Plugin to change sidebar menu's to collapsible menu. For gitbook with many pages, navigating long menus can get irritating.",
   "main": "index.js",
-  "version": "1.0.3",
-  "author": "rtCamp <admin@rtcamp.com>",
+  "version": "1.0.4",
+  "author": "HISAME SHIZUMARU",
   "contributors": [
     {
-      "name": "Rahul Bansal",
-      "email": "rahul.bansal@rtcamp.com"
+      "name": "HISAME SHIZUMARU",
+      "email": "moonsunfall@aliyun.com"
     }
   ],
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu",
+  "homepage": "https://github.com/cyqresig/gitbook-plugin-collapsible-menu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu.git"
+    "url": "https://github.com/cyqresig/gitbook-plugin-collapsible-menu.git"
   },
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu/issues"
+    "url": "https://github.com/cyqresig/gitbook-plugin-collapsible-menu/issues"
   },
   "keywords": [
     "gitbook",
     "plugin",
-    "collapsible-menu",
+    "collapsible-menu-ex",
     "menu",
     "github"
   ]

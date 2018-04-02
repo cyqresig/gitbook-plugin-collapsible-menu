@@ -1,15 +1,15 @@
-GitBook Plugin: Collapsible Menu
+GitBook Plugin: Collapsible Menu EX
 ======================================
 
 GitBook Plugin to change sidebar menu's to collapsible menu. For gitbook with many pages, navigating long menus can get irritating.
 
 ## Usage
 
-Update `book.json` file to include `collapsible-menu` plugin.
+Update `book.json` file to include `collapsible-menu-ex` plugin.
 
 ```
 {
-    "plugins": ["collapsible-menu"],
+    "plugins": ["collapsible-menu-ex"],
 }
 ```
 
@@ -35,6 +35,10 @@ Just after publishing this one, I came across - https://github.com/poojan/gitboo
 If for some reason this plugin troubles you, you can try other. :-)
 
 ## Changelog
+
+**1.0.4 - 2 April 2018**
+
+- Add parent Menu arrow control
 
 **1.0.3 - 31 March 2017**
 
